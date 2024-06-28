@@ -1,0 +1,180 @@
+body {
+    font-family: 'roboto', sans-serif;
+}
+
+ul{
+    list-style-type: none;
+}
+
+a{
+    text-decoration: none;
+}
+
+.visually-hidden{
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    border: 0;
+    padding: 0;
+    white-space: nowrap;
+    overflow: hidden;
+}
+.heder-logo {
+    font-family: var(--second-family);
+font-weight: 700;
+font-size: 18px;
+line-height: 117%;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: var(--navy-blue);
+
+}
+
+.header-logo-italic {
+    color: var(--iris);
+}
+
+.header-menu-item {
+    font-weight: 500;
+font-size: 16px;
+line-height: 150%;
+letter-spacing: 0.02em;
+color: var(--navy-blue);
+}
+
+.header-info-item {
+    font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+letter-spacing: 0.02em;
+color: var(--slate);
+}
+
+.hero-title {
+    font-weight: 700;
+font-size: 56px;
+line-height: 107%;
+letter-spacing: 0.02em;
+text-align: center;
+color: var(--white);
+}
+
+.hero {
+    background-color: gray;
+}
+
+.hero-order {
+    font-weight: 500;
+font-size: 16px;
+line-height: 150%;
+letter-spacing: 0.04em;
+color: var(--white);
+}
+
+.advantage {
+    background-color: white;
+}
+.advantage-list {
+
+}
+.advantage-item {
+}
+.advantage-subtitle {
+    font-weight: 500;
+font-size: 20px;
+line-height: 120%;
+letter-spacing: 0.02em;
+color: var(--navy-blue);
+}
+.advantage-item-text {
+font-size: 16px;
+line-height: 150%;
+letter-spacing: 0.02em;
+color: var(--slate);
+}
+
+.Team {
+    background: rgba(46, 47, 66, 0.7);;
+}
+.Team-title {
+    font-weight: 700;
+font-size: 36px;
+line-height: 111%;
+letter-spacing: 0.02em;
+text-align: center;
+color: var(--navy-blue);
+}
+.Team-list {
+}
+.Team-item {
+}
+.Team-img {
+}
+.Team-subtitle {
+    font-weight: 500;
+font-size: 20px;
+line-height: 120%;
+letter-spacing: 0.02em;
+text-align: center;
+color: var(--navy-blue);
+}
+.Team-text {
+font-size: 16px;
+line-height: 150%;
+letter-spacing: 0.02em;
+text-align: center;
+color: var(--slate);
+}
+
+.Portfolio {
+}
+.Portfolio-title {
+    font-weight: 700;
+font-size: 36px;
+line-height: 111%;
+letter-spacing: 0.02em;
+text-align: center;
+color: var(--navy-blue);
+}
+.Portfolio-list {
+}
+.Portfolio-item {
+}
+.Portfolio-img {
+}
+.Portfolio-subtitle {
+    font-weight: 500;
+font-size: 20px;
+line-height: 120%;
+letter-spacing: 0.02em;
+color: var(--navy-blue);
+}
+.Portfolio-text {
+    font-size: 16px;
+line-height: 150%;
+letter-spacing: 0.02em;
+color: var(--slate);
+}
+ 
+.footer {
+    background-color: rgba(46, 47, 66, 0.4);;
+}
+.footer-logo {
+    font-family: var(--second-family);
+font-weight: 700;
+font-size: 18px;
+line-height: 117%;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: var(--navy-blue);
+}
+.footer-logo-italic {
+    color: var(--iris);
+}
+.footer-text {
+    font-size: 16px;
+line-height: 150%;
+letter-spacing: 0.02em;
+color: var(--cloud);
+}
