@@ -89,6 +89,10 @@ color: #ffffff
 .advantage {
     background-color: white;
 }
+
+.visually-hidden {
+    color: #2e2f42
+}
 .advantage-list {
 
 }
@@ -106,26 +110,27 @@ font-size: 16px;
 line-height: 150%;
 letter-spacing: 0.02em;
 color: var(--slate);
+}t
+.team {
+    background-color: #F4F4FD
 }
-
-.Team {
-    background: rgba(46, 47, 66, 0.7);;
-}
-.Team-title {
+.team-title {
+    text-transform: capitalize;
     font-weight: 700;
 font-size: 36px;
 line-height: 111%;
 letter-spacing: 0.02em;
 text-align: center;
-color: var(--navy-blue);
+color: #2e2f42;
 }
-.Team-list {
+.team-list {
 }
-.Team-item {
+.team-item {
+    background-color: #FFFFFF
 }
-.Team-img {
+.team-img {
 }
-.Team-subtitle {
+.team-subtitle {
     font-weight: 500;
 font-size: 20px;
 line-height: 120%;
@@ -133,7 +138,7 @@ letter-spacing: 0.02em;
 text-align: center;
 color: var(--navy-blue);
 }
-.Team-text {
+.team-text {
 font-size: 16px;
 line-height: 150%;
 letter-spacing: 0.02em;
