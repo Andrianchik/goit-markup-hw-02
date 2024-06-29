@@ -57,25 +57,33 @@ a{
     color: #404bbf;
   }
 
+  .hero{
+    background-color: #2e2f42
+  }
+  
+
 .hero-title {
     font-weight: 700;
 font-size: 56px;
 line-height: 107%;
 letter-spacing: 0.02em;
 text-align: center;
-color: var(--white);
-}
-
-.hero {
-    background-color: gray;
+color: #ffffff;
 }
 
 .hero-order {
     font-weight: 500;
+cursor: pointer;
 font-size: 16px;
 line-height: 150%;
 letter-spacing: 0.04em;
-color: var(--white);
+background-color: #4D5AE5;
+color: #ffffff
+}
+
+.hero-order:hover,
+.hero-order:focus {
+    background-color:#404BBF
 }
 
 .advantage {
