@@ -112,7 +112,7 @@ letter-spacing: 0.02em;
 color: var(--slate);
 }t
 .team {
-background-color: #F4F4FD;
+    background-color: #F4F4FD;
 }
 .team-title {
  
@@ -125,9 +125,10 @@ text-align: center;
 color: #2e2f42;
 }
 .team-list {
+    background-color: #FFFFFF;
 }
 .team-item {
-    background-color: #F4F4FD;
+
 }
 .team-img {
 }
@@ -145,7 +146,7 @@ font-size: 16px;
 line-height: 150%;
 letter-spacing: 0.02em;
 text-align: center;
-color: #2e2f42;
+color: #434455;
 }
 
 .portfolio {
@@ -173,8 +174,8 @@ letter-spacing: 0.02em;
 color: #2e2f42;
 }
 .Portfolio-text {
-    font-size: 16px;
-line-height: 150%;
+font-size: 16px;
+line-height: 1.5;
 letter-spacing: 0.02em;
 color: #434455;;
 }
