@@ -1,5 +1,7 @@
 body {
-    font-family: 'roboto', sans-serif;
+    font-family: "Roboto", sans-serif;
+    color: #434455;
+    background-color: #FFFFFF
 }
 
 ul{
@@ -10,16 +12,7 @@ a{
     text-decoration: none;
 }
 
-.visually-hidden{
-    position: absolute;
-    width: 1px;
-    height: 1px;
-    margin: -1px;
-    border: 0;
-    padding: 0;
-    white-space: nowrap;
-    overflow: hidden;
-}
+
 .heder-logo {
     font-family: var(--second-family);
 font-weight: 700;
@@ -158,10 +151,10 @@ color: var(--slate);
 }
  
 .footer {
-    background-color: rgba(46, 47, 66, 0.4);;
+    background-color: #2e2f42;;
 }
 .footer-logo {
-    font-family: var(--second-family);
+    font-family: "Raleway", sans-serif;
 font-weight: 700;
 font-size: 18px;
 line-height: 117%;
